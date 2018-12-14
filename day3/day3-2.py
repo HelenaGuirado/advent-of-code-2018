@@ -55,4 +55,3 @@ for line in lines:
     selectUsedPart(wholePiece, claimedPiece, allIds, id)
 
 print(list(allIds.keys())[0])
-# 603

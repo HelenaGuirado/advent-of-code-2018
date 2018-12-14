@@ -23,5 +23,3 @@ for line in lines:
 result = letterNumber["2"] * letterNumber["3"]
 
 print(result)
-
-# 4693
